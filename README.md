@@ -1,13 +1,7 @@
 # React Native 50 Days UI Challenge
 
 Welcome to my React Native 50 Days UI Challenge repository! If you find this project helpful or inspiring, please consider supporting me by giving a star ⭐. Your support helps me keep building and sharing more awesome content.
-
-<a href="https://www.buymeacoffee.com/hewad" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
-</a>
-
 This repository contains my implementation of the React Native 50 Days UI Challenge. In this challenge, I will be creating 50 different UI designs using React Native.
-
 ---
 
 ## Day 1 Bouncy Onboarding
